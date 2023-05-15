@@ -26,7 +26,8 @@
 /**
  * Description of ares_unknown_call
  *
- * @author KC9UNZ
+ * @author Jeff, KC9UNZ
+ * kc9unz@arrl.net
  */
 class ares_unknown_call {
 
